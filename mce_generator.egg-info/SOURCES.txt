@@ -1,0 +1,7 @@
+README.md
+setup.py
+mce_generator.egg-info/PKG-INFO
+mce_generator.egg-info/SOURCES.txt
+mce_generator.egg-info/dependency_links.txt
+mce_generator.egg-info/requires.txt
+mce_generator.egg-info/top_level.txt
