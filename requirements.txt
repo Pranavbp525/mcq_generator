@@ -1,8 +1,14 @@
 openai
+tqdm
+huggingface-hub
+langchain-huggingface
+datasets
+transformers
 langchain
 streamlit
 python-dotenv
 PyPDF2
+langchain_community
 
 
 -e .
