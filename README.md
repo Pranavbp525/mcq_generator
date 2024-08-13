@@ -4,7 +4,7 @@
 
 ### Project Description
 
-This application uses a Generative AI model to create multiple-choice questions (MCQs) from the content of .txt or .pdf files using OpenAI and LangChain. The generated MCQs can be tailored to different subjects and levels of difficulty. The app leverages LangChain and Hugging Face models for natural language processing.
+This application uses a Generative AI model to create multiple-choice questions (MCQs) from the content of .txt or .pdf files. The generated MCQs can be tailored to different subjects and levels of difficulty. The app leverages LangChain and OpenAI models for natural language processing.
 
 ### Prerequisites
 
