@@ -31,7 +31,7 @@ with st.form('User Inputs'):
         with st.spinner('loading...'):
             try:
                 text=read_file(uploaded_file)
-                with get_opeanai_callback() as cb:
+                with get_openai_callback() as cb:
                     response=generate_evaluate_chain(
                         {
                             "text":text,
